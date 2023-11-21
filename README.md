@@ -7,4 +7,4 @@
 <h2>RESPONSE HANDLING</h2>
 <p>When the app receives a response from the microservice (in the form of a json object) it simply displays the information to the user in a neat manner.</p>
 <h2>UML DIAGRAM</h2>
-<img width="656" alt="UML Diagram for Pokedex App" src="https://github.com/MasonSchuster13/Pokedex/assets/52943710/c1aaec3c-7784-4ef4-81a1-6eb759162d11">
+!(https://github.com/MasonSchuster13/Pokedex/assets/52943710/53f9dabf-dab9-44b4-a7ae-e9eebc2abe0b)
